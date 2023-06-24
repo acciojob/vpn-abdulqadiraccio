@@ -87,7 +87,7 @@ public class User {
         this.maskedIp = maskedIp;
     }
 
-    public boolean getConnected() {
+    public boolean isConnected() {
         return connected;
     }
 
